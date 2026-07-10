@@ -147,7 +147,6 @@
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.AssemblyInfoInputs.cache
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.AssemblyInfo.cs
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.csproj.CoreCompileInputs.cache
-/Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.sourcelink.json
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.csproj.Up2Date
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/minibank.dll
 /Users/jakobdinessjensen/Documents/csharp/minibank/obj/Debug/net10.0/refint/minibank.dll
