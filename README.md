@@ -1,6 +1,6 @@
 ## MiniBank
 
-The purpose of this project was to learn .NET and C# while gaining practical experience developing a small backend application. The project also includes work with: database transactions, ACID principles, and thread safety using locks and handling race conditions
+The purpose of this project was to learn .NET and C# while gaining experience developing a small backend application. The project also includes work with: database transactions, ACID principles, and thread safety using locks and handling race conditions
 
 ## Running the program
 To run the program you need 
